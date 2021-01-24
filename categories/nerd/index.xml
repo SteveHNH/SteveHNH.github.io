@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nerd on 2D Steve</title>
+    <link>https://www.2dsteve.com/categories/nerd/</link>
+    <description>Recent content in Nerd on 2D Steve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jan 2021 22:48:46 +0000</lastBuildDate><atom:link href="https://www.2dsteve.com/categories/nerd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Done Moved!</title>
+      <link>https://www.2dsteve.com/2021/01/23/we-done-moved/</link>
+      <pubDate>Sat, 23 Jan 2021 22:48:46 +0000</pubDate>
+      
+      <guid>https://www.2dsteve.com/2021/01/23/we-done-moved/</guid>
+      <description>It was a whirlwind of a day, but I&amp;rsquo;ve officially moved my blog over to a static website.</description>
+    </item>
+    
+  </channel>
+</rss>
