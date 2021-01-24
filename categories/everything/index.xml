@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Everything on 2D Steve</title>
-    <link>http://www.2dsteve.com/categories/everything/</link>
+    <link>https://www.2dsteve.com/categories/everything/</link>
     <description>Recent content in Everything on 2D Steve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jul 2007 22:10:55 +0000</lastBuildDate><atom:link href="http://www.2dsteve.com/categories/everything/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jul 2007 22:10:55 +0000</lastBuildDate><atom:link href="https://www.2dsteve.com/categories/everything/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Four Days Until Internet Dies</title>
-      <link>http://www.2dsteve.com/2007/07/11/four-days-until-internet-dies/</link>
+      <link>https://www.2dsteve.com/2007/07/11/four-days-until-internet-dies/</link>
       <pubDate>Wed, 11 Jul 2007 22:10:55 +0000</pubDate>
       
-      <guid>http://www.2dsteve.com/2007/07/11/four-days-until-internet-dies/</guid>
+      <guid>https://www.2dsteve.com/2007/07/11/four-days-until-internet-dies/</guid>
       <description>As of a few days ago, the FCC decided not to invoke net neutrality.</description>
     </item>
     
