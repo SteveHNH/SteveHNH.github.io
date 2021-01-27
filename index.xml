@@ -6,7 +6,16 @@
     <description>Recent content on 2D Steve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 21:32:20 +0000</lastBuildDate><atom:link href="https://www.2dsteve.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 21:57:51 +0000</lastBuildDate><atom:link href="https://www.2dsteve.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Podman Quest</title>
+      <link>https://www.2dsteve.com/2021/01/26/the-podman-quest/</link>
+      <pubDate>Tue, 26 Jan 2021 21:57:51 +0000</pubDate>
+      
+      <guid>https://www.2dsteve.com/2021/01/26/the-podman-quest/</guid>
+      <description>Okay, ya&amp;rsquo;ll. I have been watching a LOT of programming streams on Twitch and there is one theme that seems to be pretty constant between all of them: Docker is the thing.</description>
+    </item>
+    
     <item>
       <title>Comments</title>
       <link>https://www.2dsteve.com/2021/01/25/comments/</link>
