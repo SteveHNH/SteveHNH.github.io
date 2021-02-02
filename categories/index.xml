@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 2D Steve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2021 14:25:25 +0000</lastBuildDate><atom:link href="https://www.2dsteve.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 20:06:46 +0000</lastBuildDate><atom:link href="https://www.2dsteve.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nerd</title>
+      <link>https://www.2dsteve.com/categories/nerd/</link>
+      <pubDate>Mon, 01 Feb 2021 20:06:46 +0000</pubDate>
+      
+      <guid>https://www.2dsteve.com/categories/nerd/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Random</title>
       <link>https://www.2dsteve.com/categories/random/</link>
@@ -22,15 +31,6 @@
       <pubDate>Wed, 27 Jan 2021 15:12:19 +0000</pubDate>
       
       <guid>https://www.2dsteve.com/categories/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nerd</title>
-      <link>https://www.2dsteve.com/categories/nerd/</link>
-      <pubDate>Tue, 26 Jan 2021 21:57:51 +0000</pubDate>
-      
-      <guid>https://www.2dsteve.com/categories/nerd/</guid>
       <description></description>
     </item>
     
